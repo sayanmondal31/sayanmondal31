@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello devs,👋 I'm Sayan Mondal
 
 <!--
-**sayanmondal31/sayanmondal31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning flutter & dart 
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with app architechture
+- 💬 Ask me about anything...if in my knowledge i'll help you.
+- 📫 How to reach me: ✔️[facebook](https://www.facebook.com/sayan.mondal.9843499?ref=bookmarks) ✔️[Linkedin](https://www.linkedin.com/in/sayan-mondal-736971170/) ✔️[Twitter](https://twitter.com/SayanMo117)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src= "https://github-readme-stats.vercel.app/api?username=sayanmondal31&&show_icons=true&title_color=578212&icon_color=60950d&text_color=225b2d&bg_color=a2de96">
