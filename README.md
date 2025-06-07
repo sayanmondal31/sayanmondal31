@@ -1,22 +1,61 @@
-### Hello devs,👋 I'm Sayan Mondal
+# Sayan Mondal — Full Stack Developer
 
-<!--
-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning flutter & dart 
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with app architechture
-- 💬 Ask me about anything...if in my knowledge i'll help you.
-- 📫 How to reach me: ✔️[facebook](https://www.facebook.com/sayan.mondal.9843499?ref=bookmarks) ✔️[Linkedin](https://www.linkedin.com/in/sayan-mondal-736971170/) ✔️[Twitter](https://twitter.com/SayanMo117)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me. 
+🚀 Backend • Infra • Real-Time Systems • Cloud-Native
 
-<img src= "https://github-readme-stats.vercel.app/api?username=sayanmondal31&&show_icons=true&title_color=578212&icon_color=60950d&text_color=225b2d&bg_color=a2de96">
+📍 Kolkata, India  
+📧 sayanm816@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sayan-mondal-736971170) | [GitHub](https://github.com/sayanmondal31)
 
-<table>
-    <tr>
-        <td>
-<a href="https://github.com/sayanmondal31">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmondal31&count_private=true&theme=dark&show_icons=true&hide_langs_below=1" />
-          </td>
-        <td rowspan=2>
-</table>
+---
+
+## 🧠 About Me
+
+Full Stack Developer with 5+ years of experience in scalable backend systems, cloud infrastructure, and real-time apps. Led engineering at a global mobility platform and co-founded an EdTech venture. Passionate about performance, clean code, and impactful products.
+
+---
+
+## 🛠️ Skills
+
+**Backend:** Node.js, Express.js, Redis, MongoDB, PostgreSQL  
+**Frontend:** React.js, TypeScript, Redux, TailwindCSS  
+**Infra & DevOps:** Docker, Kubernetes, GitHub Actions, DigitalOcean  
+**Exploring:** Rust, Go, Web3, LLMs, Account Abstraction
+
+---
+
+## 💼 Experience
+
+### 🔹 Drivado — IT Manager (2022–Present)
+- Built global chauffeur platform with real-time GPS tracking
+- Processed 10.8M+ operations with Redis queues
+- Scaled systems to 300+ requests/sec using Docker & K8s
+
+### 🔹 Rising Leafs — Co-Founder (2020–2022)
+- Built classroom platform with secure RBAC
+- Incubated by WEBEL-BCC&I
+- Led development, testing, and partner acquisition
+
+---
+
+## 🚀 Projects
+
+- **Career Guide App** — MERN-based learning path recommender
+- **WrkStack** — Smart project management for fast-moving teams
+- **AI Tutor** — LLM-based personal developer coach
+- **Art Gallery** — React app for showcasing modern art collections
+
+---
+
+## 🏆 Achievements
+
+- Finalist – Smart India Hackathon  
+- Incubated – WEBEL-BCC&I  
+- Former Google DSC Co-Lead  
+- Hackathon Organizer
+
+---
+
+## 📬 Let’s Connect!
+
+Always open to exciting remote roles and collaborations.  
+Feel free to reach out via [email](mailto:sayanm816@gmail.com).
