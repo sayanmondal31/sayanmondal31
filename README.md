@@ -4,7 +4,7 @@
 
 Building scalable backend platforms, distributed systems, and cloud-native applications.
 
-📍 Kolkata, India *(Open to Relocate – Dubai, UAE)*
+📍 Kolkata, India 
 
 📧 **Email:** sayanm816@gmail.com
 
